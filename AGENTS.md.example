@@ -1,0 +1,35 @@
+# Regras do OpenCode
+
+## Modelos Gratuitos (SEMPRE USAR)
+
+### OPENCODEZEN (Free Tier - 100 req/dia)
+- opencodezen/big-pickle
+- opencodezen/deepseek-v4-flash-free
+- opencodezen/mimo-v2.5-free
+- opencodezen/north-mini-code-free
+- opencodezen/nemotron-3-ultra-free
+- opencodezen/laguna-s-2.1-free
+- opencodezen/ling-3.0-flash-free
+- opencodezen/hy3-free
+
+### CEREBRAS (API Key grátis)
+- cerebras/gemma-4-31b
+- cerebras/gpt-oss-120b
+- cerebras/zai-glm-4.7
+
+### ANTIGRAVITY (Google OAuth)
+- antigravity-gemini-3.1-pro
+- antigravity-gemini-3-flash
+- antigravity-claude-opus-4-6-thinking
+
+## REGRA OBRIGATÓRIA
+1. Variar entre os modelos gratuitos (priorizar OpenCodeZen)
+2. Informar no final de cada resposta qual modelo está usando
+3. NUNCA usar modelos pagos (OpenCode Go)
+
+## CEREBRAS API KEY
+SUA_API_KEY_AQUI
+
+## PERMISSÕES
+- Todas as operações estão permitidas sem confirmação (`permission: allow`)
+- Para comandos que exigem sudo, usar: `echo "SUA_SENHA" | sudo -S comando`

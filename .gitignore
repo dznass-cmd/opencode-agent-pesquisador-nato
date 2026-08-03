@@ -1,0 +1,10 @@
+node_modules/
+.env
+opencode.jsonc
+AGENTS.md
+antigravity-accounts.json
+antigravity.json
+supermemory.json
+supermemory.jsonc
+dcp.jsonc
+subtask2.jsonc
